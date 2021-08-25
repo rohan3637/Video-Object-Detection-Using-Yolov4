@@ -115,9 +115,6 @@ https://user-images.githubusercontent.com/58647922/123947889-80a14b80-d9be-11eb-
 https://user-images.githubusercontent.com/58647922/123949628-65374000-d9c0-11eb-93a9-1cb8c8f83bd0.mp4
 
 
-https://user-images.githubusercontent.com/58647922/123949678-73855c00-d9c0-11eb-991f-3b8f0f548523.mp4
-
-
 https://user-images.githubusercontent.com/58647922/130736776-10ad1a76-7a3f-41bc-a053-a5ce93d8a814.mp4
 
 
