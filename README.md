@@ -56,7 +56,12 @@ Real time object detection, tracking and classification using Deep Learning tech
 
 # Step 5: Train our Custom Object Detector.
 
-![obj model archi (1)](https://user-images.githubusercontent.com/58647922/123635377-3cd10980-d839-11eb-83c8-d4b228526b15.png)
+## yolov4 model architecture: 
+
+![image](https://user-images.githubusercontent.com/58647922/130737344-52e088e1-6e60-402d-8eaf-f6fffd0a4f5b.png)
+
+![image](https://user-images.githubusercontent.com/58647922/130737383-7b18e7d2-a4f6-4dbe-a3e5-64252bfe2c91.png)
+
 
 Loss curves:
 
